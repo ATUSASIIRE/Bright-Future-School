@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+
+   
+}
+/* navbar */
+nav{
+    background-color: #3b599b;
+    color: white;
+    
+}
+body{
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+
+}
+nav ul{
+    background-color: aqua;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    /* display: flex; */
+}
+
+
+
